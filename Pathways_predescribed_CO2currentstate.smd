@@ -1,0 +1,12 @@
+[SMART]
+VERSION=1.2.2
+MODEL=Pathways_predescribed_CO2currentstate.mdl
+DEFAULT_EXPERIMENT=Pathways_predescribed_CO2currentstate.dxp
+DLL=Pathways_predescribed_CO2currentstate.dll
+MAKEFILE=Pathways_predescribed_CO2currentstate.mak
+EXPERIMENT=Pathways_predescribed_CO2currentstate.exp
+CUSTOMS=Pathways_predescribed_CO2currentstate.cst
+PRIVILIGES=Pathways_predescribed_CO2currentstate.prv
+HELP=Pathways_predescribed_CO2currentstate.htm
+[EXPERIMENT_HISTORY]
+FILENAME1=RUN_EXACT_2000.exp
