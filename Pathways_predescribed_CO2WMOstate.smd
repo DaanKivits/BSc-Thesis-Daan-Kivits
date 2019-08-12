@@ -1,0 +1,12 @@
+[SMART]
+VERSION=1.2.2
+MODEL=Pathways_predescribed_CO2_no_fluxes_WMO.mdl
+DEFAULT_EXPERIMENT=Pathways_predescribed_CO2_no_fluxes_WMO.dxp
+DLL=Pathways_predescribed_CO2_no_fluxes_WMO.dll
+MAKEFILE=Pathways_predescribed_CO2_no_fluxes_WMO.mak
+EXPERIMENT=Pathways_predescribed_CO2WMOstate.exp
+CUSTOMS=Pathways_predescribed_CO2_no_fluxes_WMO.cst
+PRIVILIGES=Pathways_predescribed_CO2_no_fluxes_WMO.prv
+HELP=Pathways_predescribed_CO2_no_fluxes_WMO.htm
+[EXPERIMENT_HISTORY]
+FILENAME1=RUN_EXACT_2000.exp

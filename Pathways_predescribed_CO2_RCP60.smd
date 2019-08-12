@@ -1,0 +1,12 @@
+[SMART]
+VERSION=1.2.2
+MODEL=Pathways_predescribed_CO2_RCP60.mdl
+DEFAULT_EXPERIMENT=Pathways_predescribed_CO2_RCP60.dxp
+DLL=Pathways_predescribed_CO2_RCP60.dll
+MAKEFILE=Pathways_predescribed_CO2_RCP60.mak
+EXPERIMENT=Pathways_predescribed_CO2_RCP60.exp
+CUSTOMS=Pathways_predescribed_CO2_RCP60.cst
+PRIVILIGES=Pathways_predescribed_CO2_RCP60.prv
+HELP=Pathways_predescribed_CO2_RCP60.htm
+[EXPERIMENT_HISTORY]
+FILENAME1=RUN_EXACT_2000.exp

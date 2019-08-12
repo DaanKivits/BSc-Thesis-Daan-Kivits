@@ -1,0 +1,12 @@
+[SMART]
+VERSION=1.2.1
+MODEL=OceanCarbonateChemistry.mdl
+DEFAULT_EXPERIMENT=OceanCarbonateChemistry.dxp
+DLL=OceanCarbonateChemistry.dll
+MAKEFILE=OceanCarbonateChemistry.mak
+EXPERIMENT=OceanCarbonateChemistry.exp
+CUSTOMS=OceanCarbonateChemistry.cst
+PRIVILIGES=OceanCarbonateChemistry.prv
+HELP=OceanCarbonateChemistry.htm
+[EXPERIMENT_HISTORY]
+FILENAME1=exp1.exp
